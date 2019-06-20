@@ -6,5 +6,5 @@ With regards to reports, VFP 9 SP2 has enormous power and extensibility. It has 
 I'm preparing this framework and utilities as a presentation scheduled for Southwest Fox 2019 (www.swfox.net). Look for more to come soon.
 
 Cathy Pountney<br>
-White Light Computing<br>
+White Light Computing, Inc.<br>
 clpountney@whitelightcomputing.com
