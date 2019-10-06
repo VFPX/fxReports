@@ -1,4 +1,4 @@
-# fxReports / Features folder
+# fxReports / Features Repository
 <b>Reporting features provided by the FoxPro Community</b><br><br>
 Project Manager: [Cathy Pountney](https://github.com/frontier2000)<br>
 
