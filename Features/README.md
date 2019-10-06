@@ -3,10 +3,10 @@
 Project Manager: [Cathy Pountney](https://github.com/frontier2000)<br>
 
 <b>NOTE TO CONSUMERS</b><br>
-Some contributors provide individual files as well as a .ZIP file. If a .ZIP file exists, you do not need to download all the other individual files. 
+Some contributors provide individual files as well as a .ZIP file. If a .ZIP file exists, you do not need to download all the other individual files. The .ZIP file should include all the other files. Use the Unwrap & Share utility (located in the CoreFramework folder) to process files you download. 
 
 <b>NOTE TO CONTRIBUTORS</b><br>
-Each developer who contributes reporting features should create a folder here. Please use your name as the folder name. Within your folder, create the following subfolders:
+Each developer who contributes reporting features has a uniquely named folder (probably their name). Use the Wrap & Share Utility (located in the CoreFramework folder) to prepare your files and then upload them here. Note that within your folder, the following subfolders may exist:
 <ul>
 <li>code</li>
 <li>samples</li>
