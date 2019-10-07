@@ -10,5 +10,5 @@ Optionally, grab individual zip files from the <i>FeatureRepository</i> subfolde
 
 The <i>fxReports Documentation.pdf</i> file is a whitepaper that explains how the entire fxReports concept works, how to implement it in your application, and how to contribute to the project if you desire. 
 
-<i>NOTE: I'm preparing this framework and utilities as a presentation scheduled for [Southwest Fox 2019](www.swfox.net). Look for more to come soon.<i>
+<b>NOTE: I'm preparing this framework and utilities as a presentation scheduled for [Southwest Fox 2019](www.swfox.net). Look for more to come soon.</b>
 
