@@ -1,0 +1,9 @@
+# Feature Repository - Table of Contents
+<b>A list of features provided by each contributor</b><br><br>
+
+[Cathy Pountney](https://github.com/frontier2000)<br>
+<ul>
+<li><b>Reduced Font:</b> Automatically reduces the font size of a field object to squeeze longer text into a small spac</li>
+<li><b>Text Watermark:</b> Creates a watermark with a string of text diagonally across each page</li>
+<li><b>Graphic Watermark:</b> Creates a watermark with a graphic image on each page</li>
+</ul>
